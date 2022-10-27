@@ -1,0 +1,21 @@
+package _03_print_and_popups._1_greeter;
+
+import javax.swing.JOptionPane;
+
+public class print_and_popups_1 {
+
+	public static void main(String[] args) {
+		
+		String inponut = JOptionPane.showInputDialog("what is your name ? ");
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}
